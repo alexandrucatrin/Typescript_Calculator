@@ -15,14 +15,16 @@ This TypeScript calculator allows you to perform various mathematical operations
    npm init -y
    npm install typescript readline-sync
 
-3. Run the TypeScript compiler to transform the TypeScript code into JavaScript:
+3. Import Calculator.ts into your project
+
+4. Run the TypeScript compiler to transform the TypeScript code into JavaScript:
 
    ```bash
    tsc calculator.ts
 
-  This will generate a calculator.js file.
+      This will generate a calculator.js file.
 
-4. Run the calculator using Node.js:
+5. Run the calculator using Node.js:
 
    ```bash
    node calculator.js
