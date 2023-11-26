@@ -22,7 +22,7 @@ This TypeScript calculator allows you to perform various mathematical operations
    ```bash
    tsc calculator.ts
 
-      This will generate a calculator.js file.
+This will generate a calculator.js file.
 
 5. Run the calculator using Node.js:
 
